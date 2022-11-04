@@ -1,0 +1,17 @@
+{
+  "name": "user-role-for-flamingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "translate": "./translate.sh"
+  },
+  "author": "Yannick Zipf",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-newer": "^1.4.0"
+  }
+}
