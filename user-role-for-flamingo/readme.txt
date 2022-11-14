@@ -38,6 +38,10 @@ Installing the plugin is easy. Just follow one of the following methods:
 That\'s it! 
 
 == Frequently Asked Questions ==
+= Do I need the Flamingo plugin to use the User Role for Flamingo plugin? =
+
+Yes, of course. Running User Role for Flamingo without the Flamingo plugin will have no effect.
+
 = Where can I control the capabilities of the new user role? =
 
 You can find the settings page in the WordPress Backend under Users > Flamingo User Role.
