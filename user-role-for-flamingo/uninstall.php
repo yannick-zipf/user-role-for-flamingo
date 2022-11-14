@@ -14,3 +14,7 @@ if (!defined('WP_UNINSTALL_PLUGIN')) {
 
 // Delete role
 remove_role('flamingo-user');
+
+// Delete options
+delete_option( 'ur4f_options' );
+delete_option( 'ur4f_version' );
