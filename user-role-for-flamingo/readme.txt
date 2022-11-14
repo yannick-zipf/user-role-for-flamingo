@@ -61,5 +61,5 @@ No.
 4. Menu of user with Flamingo user role.
 
 == Changelog ==
-= [1.0.0] 2022-03-05 =
+= [1.0.0] 2022-11-14 =
 * Initial Version
