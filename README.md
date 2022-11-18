@@ -13,4 +13,4 @@ The source files will be copied from the *plugin/user-role-for-flamingo* folder 
 
 ## Contact
 Contact me via yannick.zipf [at] icloud.com.
-For support requests, please open a ticket under XXX.
+For support requests, please open a ticket under https://wordpress.org/support/plugin/user-role-for-flamingo/.
