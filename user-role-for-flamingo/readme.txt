@@ -1,10 +1,10 @@
 === User Role for Flamingo ===
 Contributors: yannickzipf
 Tags: flamingo, forms, user role, capabilities, contact form 7
-Tested up to: 6.1
+Tested up to: 6.4
 Requires PHP: 7.0
 Requires at least: 5.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Configure special user role to access the flamingo contacts and messages wihtout admin permissions.
@@ -65,5 +65,7 @@ No.
 4. Menu of user with Flamingo user role.
 
 == Changelog ==
+= [1.0.1] 2023-11-26 =
+* Docs: Tested up to WordPress 6.4
 = [1.0.0] 2022-11-14 =
 * Initial Version

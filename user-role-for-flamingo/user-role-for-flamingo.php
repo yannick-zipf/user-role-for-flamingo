@@ -2,7 +2,7 @@
 /**
  * Plugin Name: User Role for Flamingo
  * Description: Configure special user role to access the flamingo contacts and messages wihtout admin permissions.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Yannick Zipf
  * License: GPLv2 or later
  */
@@ -15,7 +15,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Currently plugin version. Using https://semver.org
  */
-define( 'UR4F_VERSION', '1.0.0' );
+define( 'UR4F_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
